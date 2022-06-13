@@ -1,5 +1,3 @@
-## Hi there 👋 , I'm Jay🚀  
-
 <!--
 **sirwarj/sirwarj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,20 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## Hi 👋, I'm Jay🚀 
 -->
-
- 
-  
-
-🌱 I’m currently learning Front-End, Back-End, DevOps & more 😱  
-  
-
-  
-  
-
+## Hi there 👋 , I'm Jay🚀  
+🌱 I’m currently learning Front-End, Back-End, DevOps & more 😱
+<br/>
+🤔 I’m looking for help with Go Language and Web Development Stack
 <br/>  
-
-
-## Languages and Tools  
+### Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -44,18 +34,11 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
+<br/>
+### Github Stats  
 <table><tr><td valign="top" width="49%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=sirwarj&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
 </td><td valign="top" width="49%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirwarj&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
 </td></tr></table>
 <br />
