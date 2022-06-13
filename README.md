@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Jay🚀  
+## Hi there 👋 , I'm Jay🚀  
 
 <!--
 **sirwarj/sirwarj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-# Languages and Tools  
+## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -48,17 +48,14 @@ Here are some ideas to get you started:
 <br/>  
 
 
-# Github Stats  
-<table><tr><td valign="top" width="50%">
+## Github Stats  
+<table><tr><td valign="top" width="49%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sirwarj&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="49%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirwarj&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
