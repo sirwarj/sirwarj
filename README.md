@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Languages and Tools  
+# Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Github Stats  
+# Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sirwarj&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
