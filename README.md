@@ -11,19 +11,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-## Hi 👋, I'm Jay 🚀 
+## Hi 👋, I'm Jay🚀 
 -->
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> , I'm Jay🚀
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> , I'm Jay 🚀
 <div align="center">
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" align="center" style="width: 100%" />
 </div>
 <br/>
-🌱 I’m currently learning Front-End, Back-End, DevOps & more :face_with_spiral_eyes:
+🌱 I’m currently learning Front-End, Back-End, DevOps & more 😱
 <br/>
 🤔 I’m looking for help with Go Language and Web Development Stack
 <br/>
 
-### Skills  🧰
+### Languages and Tools  🧰
+<br/>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -38,10 +39,11 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
+</div>  
 <br/>
 
 ### Github Stats  📈
+<br/>
 <table align="center">
   <tr>
     <td valign="top" width="50%">
@@ -53,6 +55,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <br />
+
 <div align="center">
-<img src="https://media4.giphy.com/media/gx54W1mSpeYMg/giphy.gif" style="width: 10%">
- </div
+<img src="https://i.pinimg.com/originals/ed/01/22/ed012259c25cd0a787064216db37c22d.gif" align="center" height="100" />
+</div>
