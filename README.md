@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" align="center" style="width: 100%" />
 </div>
 <br/>
-🌱 I’m currently learning Front-End, Back-End, DevOps & more 😱
+🌱 I’m currently learning Front-End, Back-End, DevOps & more :face_with_spiral_eyes:
 <br/>
 🤔 I’m looking for help with Go Language and Web Development Stack
 <br/>
