@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sirwarj&theme=blueberry&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sirwarj&theme=blueberry&show_icons=true&count_private=true&hide_border=true&count_private=true" align="left" style="width: 100%" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirwarj&theme=blueberry&hide_border=true&layout=compact" align="left" style="width: 100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirwarj&theme=blueberry&hide_border=true&layout=compact&count_private=true" align="left" style="width: 100%" />
      </td>
   </tr>
 </table>
